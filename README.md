@@ -3,6 +3,13 @@ a unity based android game
 
 [Download APK](https://github.com/WaqasJaved1/na-ahl/raw/master/na-ahl.apk)
 
+Playing Guide
+
+Click on left side of screen to jump from left->right and right->left
+In mid air press right side of screen to hold ball in mid air till power goes off.
+
+
+
 This is a small game to demonstrate the basic unity elements like scenes, sprites environment etc, with coding in C# for enemy sprites and demonstrate the use of android touch by playing a simple game.
 
 It is given a creative touch according to nowadays trend in Pakistan. The running sprite is imran khan strugling to get through following stages
