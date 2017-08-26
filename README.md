@@ -1,7 +1,7 @@
 # na-ahl
 a unity based android game
 
-[Download](https://github.com/WaqasJaved1/na-ahl/raw/master/na-ahl.apk)
+[Download APK](https://github.com/WaqasJaved1/na-ahl/raw/master/na-ahl.apk)
 
 This is a small game to demonstrate the basic unity elements like scenes, sprites environment etc, with coding in C# for enemy sprites and demonstrate the use of android touch by playing a simple game.
 
